@@ -5,5 +5,4 @@ const Colors ={
     primary700: '#3b021f',
     accent400: '#ddb52f',
 };
-
 export default Colors;
